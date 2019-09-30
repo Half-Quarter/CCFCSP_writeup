@@ -6,7 +6,7 @@
 //#include<bits/stdc++.h>
 using namespace std;
 
-int fourdeal() {
+int main() {
     stack<int> num;
     queue<int> res;
     int tt;

@@ -1,7 +1,7 @@
 #include <stack>
 //#include<bits/stdc++.h>
 using namespace std;
-int test(){
+int main(){
     int r,y,g;
     scanf("%d %d %d",&r,&y,&g);
     int n;

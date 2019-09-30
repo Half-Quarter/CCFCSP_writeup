@@ -6,7 +6,7 @@
 //#include<bits/stdc++.h>
 using namespace std;
 
-int gotoschool() {
+int main() {
     int r,y,g;
     scanf("%d %d %d",&r,&y,&g);
     int n;
