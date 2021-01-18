@@ -49,7 +49,7 @@ int dump() {
             }
 
         }
-        if(up==1&&down==1&left==1&right==1){
+        if(up==1&&down==1&&left==1&&right==1){
             data[j].recy= true;
             data[j].score=score;
 
